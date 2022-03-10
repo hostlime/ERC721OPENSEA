@@ -33,5 +33,25 @@
   },
   "dependencies": {
     "@openzeppelin/contracts": "^4.5.0"
-  }
+  },
+  "name": "erc721opensea",
+  "description": "This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.",
+  "version": "1.0.0",
+  "main": ".eslintrc.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hostlime/ERC721OPENSEA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hostlime/ERC721OPENSEA/issues"
+  },
+  "homepage": "https://github.com/hostlime/ERC721OPENSEA#readme"
 }
