@@ -1,0 +1,29 @@
+{
+  "description": "ART5",
+  "external_url": "url instagram",
+  "image": "https://ipfs.io/ipfs/QmYJZwwVStq7fTZd8CeS6ykBs7g6sRvZLv6B7ZBHkvfSnM/5.jpg",
+  "name": "ART5",
+  	"attributes": [
+		{
+		  "trait_type": "style", 
+		  "value": "modern"
+		}, 
+		{
+		  "trait_type": "size", 
+		  "value": "Big"
+		},     
+		{
+		  "trait_type": "Level", 
+		  "value": 2
+		}, 
+		{
+		  "trait_type": "Stamina", 
+		  "value": 3.4
+		}, 
+		{
+		  "trait_type": "country", 
+		  "value": "russian"
+		}
+		
+	]
+}
